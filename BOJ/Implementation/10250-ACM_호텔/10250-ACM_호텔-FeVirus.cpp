@@ -1,4 +1,4 @@
-// git commit -m "code: Solve boj 10250 ACM 호텔 (FeVirus)"
+// git commit -m "code: Solve boj 10250 ACM 호텔 (FeVirus)" 
 // 걸린시간 12:00
 #include <iostream>
 using namespace std;
