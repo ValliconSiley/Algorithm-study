@@ -1,4 +1,5 @@
-// git commit -m "code: Solve boj 02512 예산 (FeVirus)"#include <iostream>
+// git commit -m "code: Solve boj 02512 예산 (FeVirus)"
+#include <iostream>
 using namespace std;
 
 int n, arr[10000], budget;
