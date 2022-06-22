@@ -23,7 +23,7 @@ for data in datas:
     title_bar = title.replace(' ', '_')
 
     problem = f'{num}-{title_bar}'
-    path = f'./{category}/{problem}' 
+    path = f'./{category}/{problem}'
 
     readme = f"# {str(int(num))} {title}\nhttps://www.acmicpc.net/problem/{num}"
 
