@@ -1,11 +1,6 @@
 
 //# git commit -m "code: Solve boj 09375 패션왕 신해빈 (byeongdoo)"
-import java.util.HashMap;
-import java.util.StringTokenizer;
-import java.util.Arrays;
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.io.IOException;
+
 
 public class test {
     public static void main(String[] args) throws IOException {
