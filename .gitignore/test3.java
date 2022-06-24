@@ -13,6 +13,7 @@ class test3 {
             for (int j = 0; j < num; j++) {
                 int X = sc.nextInt();
                 int Y = sc.nextInt();
+                
             }
         }
     }
