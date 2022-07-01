@@ -47,7 +47,7 @@ for data in datas:
             else:
                 filepath = os.path.join(path, f'{problem}-{member}.java')
                 fid = open(filepath, 'w', encoding='utf8')
-                fid.write(f'# git commit -m "code: Solve boj {num} {title} ({member})"')
+                fid.write(f'// git commit -m "code: Solve boj {num} {title} ({member})"')
             fid.close()
 
         # README 생성
