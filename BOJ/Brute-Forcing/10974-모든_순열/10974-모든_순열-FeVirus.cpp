@@ -1,0 +1,1 @@
+// git commit -m "code: Solve boj 10974 모든 순열 (FeVirus)"
